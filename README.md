@@ -14,7 +14,7 @@ open the terminal inside VSCode\
 then write the below commands following with the ENTER key:\
 cd frontend\
 npm install--force\
-npm start or ng serve\
+npm start or ng serve
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ![a5](https://github.com/TodorJevtic/Gvozdjara-Metal-Rasa/assets/139502123/7baaa9ef-2c3b-451a-8341-495793000a1b)
